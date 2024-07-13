@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john@example.com",
+    "avatar": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane@example.com",
+    "avatar": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 3,
+    "name": "Jim Beam",
+    "email": "jim@example.com",
+    "avatar": "https://via.placeholder.com/150"
+  }
+]
